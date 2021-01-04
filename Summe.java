@@ -1,5 +1,5 @@
 // Exercise 1
-package eprogHs19;
+package eprogFs19;
 
 public class Summe {
 
