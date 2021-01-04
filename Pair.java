@@ -1,5 +1,5 @@
 // Exercise 2
-package eprogHS19;
+package eprogFS19;
 
 public class Pair {
 	int summand1;
