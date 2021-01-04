@@ -1,4 +1,4 @@
-// Exercise 4
+// Exercise 4: file 2/2
 package eprogFS19;
 
 public class runInspektor {
