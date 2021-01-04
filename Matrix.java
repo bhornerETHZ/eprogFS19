@@ -1,5 +1,5 @@
 // Exercise 2
-package prüfungHs19;
+package prüfungFS19;
 
 public class Matrix {
 	
