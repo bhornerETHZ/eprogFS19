@@ -10,7 +10,7 @@ public class Matrix {
 									{'p','o','d','d','d','o','d','d','p'}, 
 									{'e','g','e','e','e','e','g','e','r'}
 								};
-		
+		hallo hallo
 		Position[] result = findWord(m, "eprog");
 		//TODO
 	}
