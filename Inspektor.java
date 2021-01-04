@@ -21,8 +21,9 @@ public class Inspektor {
 		// TODO
 	}
 
-	public static void gefahrenStufe() {
+	public static String gefahrenStufe() {
 		// TODO
+		return null;
 	}
 
 	public static Map besteStaelle() {
